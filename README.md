@@ -1,4 +1,4 @@
 elife-articles
 ==============
 
-xml of elife articles
+xml of eLife articles
