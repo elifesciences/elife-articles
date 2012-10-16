@@ -5,9 +5,9 @@ This repository contains the full xml of eLife articles.
 
 eLife is a new open access journal in the life sciences. 
 
-For more information about [eLife][el] you can read about [the initative][eli], [the jouranl][elj] or our 
-[editorialboard][elb] or the [senior editors][els]. You can [submit][sub] to the journal, or you can go ahead and 
-read the full text article on Pub Med Central [here][pmc].
+For more information about [eLife][el] you can read about [the initative][eli], [the journal][elj], our 
+[editorial board][elb] or the [senior editors][els]. You can [submit][sub] to the journal, or you can go ahead and 
+read the full text articles on sPub Med Central [here][pmc].
 
 
 [el]: http://www.elifesciences.org/
