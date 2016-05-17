@@ -1,5 +1,16 @@
-eLife articles
-==============
+# eLife articles
+
+---
+
+**DEPRECATED**
+
+This repository is being deprecated in favour of the [elife-article-xml](https://github.com/elifesciences/elife-article-xml) repository and will no longer receive updates. 
+
+This new repository contains all previous versions of an article as well.
+
+This repository is scheduled to be deleted July 17th 2016.
+
+----
 
 This repository contains the full xml of eLife articles.
 
